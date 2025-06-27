@@ -16,18 +16,22 @@ public class AppTest {
 		cal = new Calc();
 	}
 	
-	//act
+	
     @Test
     public void calculation() {
+    	//act
     	res = cal.mul(3,23);
-    	cal = null;
+    	
+    	//assert
+    	assertTrue(70 > res);
+		assertNotNull(cal);
+    	
     }
     
     
-    //assert
+    //teardown
     @AfterEach
 	public void makecal1() {
-		assertTrue(70 > res);
-		assertNull(cal);
+    	cal = null;	
 	}
 }
