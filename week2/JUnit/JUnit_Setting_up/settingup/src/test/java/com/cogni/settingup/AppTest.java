@@ -7,6 +7,5 @@ public class AppTest {
     void exampleTest() {
     	int res = App.meth();
         Assertions.assertEquals(69, res, "The result should be 42");
-    }
-    
+      }
 }
