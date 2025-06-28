@@ -16,4 +16,5 @@ public class AppTest {
 		 String result = service.fetchData(); 
 		 assertEquals("Mock Data", result); 
 		 } 
+		
 }
