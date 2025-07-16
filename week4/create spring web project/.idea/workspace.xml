@@ -4,26 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc82ef5d-0ac6-4557-9f87-26046e8a799a" name="Changes" comment="" />
+    <list default="true" id="df31fbb6-ca46-4aec-960d-3128b5cfe3f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../week3/SpringDataJpa/country/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../week3/SpringDataJpa/country/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2zViTWYLX6yCQ3I1NBfrDqxqTM5" />
+  <component name="ProjectId" id="2zuAkse8GHdF3TIDk6vYsjvDkXD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,11 +34,12 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.LibraryApplication.executor": "Run",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringLearnApplication.executor": "Run",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/cognizant/week3/LibraryManagement10",
+    "last_opened_file_path": "D:/cognizant/week4/spring-learn",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,15 +48,10 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.library" />
-    </key>
-  </component>
   <component name="RunManager">
-    <configuration name="LibraryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="library" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.library.LibraryApplication" />
+    <configuration name="SpringLearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-learn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cognizant.spring_learn.SpringLearnApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,12 +67,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc82ef5d-0ac6-4557-9f87-26046e8a799a" name="Changes" comment="" />
-      <created>1751822649130</created>
+      <changelist id="df31fbb6-ca46-4aec-960d-3128b5cfe3f2" name="Changes" comment="" />
+      <created>1752570730205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1751822649130</updated>
-      <workItem from="1751822650205" duration="8766000" />
+      <updated>1752570730205</updated>
+      <workItem from="1752570731347" duration="2063000" />
     </task>
     <servers />
   </component>
