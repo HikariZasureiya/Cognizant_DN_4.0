@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width:100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.st2{
+  padding-left: 50px;
+  padding-right: 50px;
+
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 50px;
+
+  border-left: green 3px solid;
+  border-right: green 3px solid;
+}
+
+.st1{
+  padding: 5px;
+  text-align: left;
+}
+
+
+
